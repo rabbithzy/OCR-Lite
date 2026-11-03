@@ -56,4 +56,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <CopyFileToFolders Include="RapidOCRLite\bin\rapidocrlite.dll" />
+  </ItemGroup>
 </Project>
