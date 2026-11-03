@@ -10,6 +10,6 @@
     Title="OCR-Lite">
 
     <Grid>
-
+        <Button Content="开始识别" Click="Recognize_Click"/>
     </Grid>
 </Window>
